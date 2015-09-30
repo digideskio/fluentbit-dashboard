@@ -46,7 +46,7 @@ http://monkey-project.com
 Get this Dashboard service:
 
 ```shell
-$ git clone https://github.com/fluentbit-dashboard
+$ git clone https://github.com/fluent/fluentbit-dashboard
 ```
 
 now join the dashboard path and launch the service with _dudac_:
